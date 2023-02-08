@@ -19,7 +19,7 @@ npm install
 ### Run JSON Server to Fetch Data
 
 ```sh
-json-server --watch db.json
+npm run json-server
 ```
 
 ### Compile and Hot-Reload for Development
